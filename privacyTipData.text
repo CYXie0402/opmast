@@ -1,0 +1,11 @@
+{
+    "code": "200",
+    "result": "success!",
+    "type":"0",
+    "infoString_agreement":"Welcome to our app! \nBefore using this application, please review the complete 《User Agreement》 to understand how we protect the security of your information and the services we provide you.\n Please click Agree to start using it!",
+"textColor":"FFFFFF",
+"tip_title":"User Agreement",
+"tip_time":"1702180234",
+"tip_name":"User Agreement"
+}
+
